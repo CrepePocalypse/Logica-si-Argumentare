@@ -1,0 +1,24 @@
+Operatii cu termeni
+intensionale - operatie care clarifica intensiunea unor termeni (definitie)
+extensionale - operatie care clarifica extensiunea unor termeni	(clasificare/diviziune)
+
+orice definitie este compusa din 3 parti:
+termenul care trebuie explicat
+explicatia efectiva
+relatia de definire (egal)
+
+pentru ca o definitie sa fie corecta trebuie sa respecte 5 reguli:
+regula consistentei
+regula claritatii si preciziei
+regula afirmarii
+regula non-circularitatii
+regula adecvarii
+
+
+operatiile extensionale arata ca mai multi termeni cu aceas extensiune nu sunt exact la fel, ci sunt impartiti pe clase
+acestea trebuie sa respecte 5 reguli:
+regula celor 3 elemente (pe cine, in ce clasa, in functie de ce) (incompleta)
+regula completitudinii (fiecare element sa se regaseasca intr-o clasa, sa nu existe clase goale) (prea abundenta)
+regula criteriului unic 
+regula excluziunii claselor
+regula omogenitatii

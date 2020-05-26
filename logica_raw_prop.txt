@@ -1,0 +1,19 @@
+propozitiile cognitive sunt descrieri ale lumii ele pot fi ori adevarate ori false
+propozitiile categorice
+judecata atributiva
+termenul care este judecat se numeste subiect logic
+caracteristica care se atribuie/se neaga se numeste predicat
+(toti/niciun S sunt P)/(unii S sunt/nu sunt P)
+judecatile individuale sunt egale cu cele universale
+      toti (a/e)(universala)
+afirmo | nego
+      unii(i/o)(particulara)
+	  contrarietate
+      SaP -------------- SeP
+    	|\		 |
+    	| \	         |
+   s.a.	|  Contradictie  | subalternare
+    	|	       \ |
+    	|		\|
+       Sip -------------- SoP
+   	subcontrarietate

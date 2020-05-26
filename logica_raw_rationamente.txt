@@ -1,0 +1,75 @@
+rationamentul(inferenta) este o operatie logica prin care creem o propozitie din alte propozitii pe care le cunostem, cunoscute ca premise, rezultatul acestora se numeste concluzie
+conversiunea este schimbarea termenilor unei propozitii categorice
+SaP devine SiP
+SeP devine PeS
+o conversiune poate fi: simpla daca litera nu se schimba, si prin accident daca litera se schimba 
+obversiunea este atunci cand se neaga tipul propozitiei si predicatul logic
+un termen se numeste distribuit daca judecata lui este prezenta in totalitate in extensiune
+legea distribuirii termenilor, daca ai plecat de la anumite premise si ai ajuns la o concluzie, acelas termen trebuie sa fie distribuit in premisele in care apare
+
+SILOGISMUL
+silogismul este o gandire in care ai 2 premise si o concluzie, in care daca exista o legatura intre M si S si intre M si P, exista o legatura intre S si P
+M    M M     M   P
+ \   | |    /
+  \  | |   /
+   \ | |  /      S
+---------------
+S   P   S    P
+
+mod silogistic
+litera de legatura din prima relatie + litera de legatura din a doua relatie + litera de legatura din concluze + numarul figurii
+pentru rezolvarea unui silogism se recomanda inceperea de la concluzie spre premise
+S se numeste termen minor
+P se numeste termen major
+M se numeste termen mediu
+Premisa care contine termenul major se numeste premisa majora
+Premisa care contine termenul minor se numeste premisa minora
+
+metoda Venn
+hasura = vid
+x = nevid
+
+inductia este un rationament din care inceram sa formulam o concluzie care priveste o clasa de obiecte plecand de la o premisa particulara
+inductia prin simpla enumerare/populara, cand nu exista un contra-argument
+inductia completa, cand facem o concluzie bazata pe analiza tuturor cazurilor
+inductie incompleta, teza este probabila
+inductie stiintifica, se alege un esation care va fi studiat in special
+
+
+tipuri de rationamente
+rationamentele deductive sunt rationamentele in care se trece de la premisa la concluzie intr-un mod sigur
+rationamentele nedeductive sunt rationamentele in care se trece de la premise la concluzie dar nu este sigur
+rationamentele deductive pot fi:
+valide - daca este corect
+nevalide - daca este incorect
+rationamentele nedeductive pot fi:
+tari - daca rationamentul are sanse de a fi valid
+slab - daca rationamentul nu are sanse de a fi valid
+Daca un rationament trece de la general la particular este un rationament deductiv
+Daca un rationament trece de la particular la general este un rationament inductiv 
+In functie de numarul de premise rationamentele sunt:
+imadiate daca avem o premisa
+mediate daca avem mai multe premise
+
+Demonstratia
+trebuie sa contina:
+teza de demonstratie (concluzia)
+fundamentul demonstratiei (premisa)
+modul de demonstrare
+regulile unei demonstratii:
+-teza trebuie clar formulata
+-teza trebuie sa fie cel putin probabila
+-teza trebuie sa ramana neschimbata
+-premisele trebuie sa fie adevarate, si sa poata sa fie acceptate independent de teza
+-rationamentele trebuie sa fie corecte
+
+Sofismele
+sunt formale (atunci cand rationam gresit din cauza formei) sau materiale (atunci cand materia este gresita)
+de limbaj (cand se incearca inducerea unei idei gresite prin limbaj)
+de circularitate (cand se inceara inducerea unei idei gresite prin asteptarea altei premise)
+supozitiei neintemeiate (cand se incearca inducerea unei idei gresite care sunt prezentate ca si corecte)
+de relevanta (cand se induce o concluzie plecand de la premise care nu au legatura cu concluzia)
+ale dovezilor insuficiente (cand se induce ideea ca cazuri nestudiate au fost studiate)
+erorile sunt:
+paralogisme - atunci cand este facut fara intentie
+sofisme - atunci cand este facut cu intentie
